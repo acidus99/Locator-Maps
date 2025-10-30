@@ -242,7 +242,6 @@ The following table contains the Country & Territory Maps in this repo, includin
     <tr><td>TH</td><td>Thailand</td><td><a href="pngs/th.png"> 🖼️ PNG</a></td><td><a href="svgs/th.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>TJ</td><td>Tajikistan</td><td><a href="pngs/tj.png"> 🖼️ PNG</a></td><td><a href="svgs/tj.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>TK</td><td>Tokelau</td><td><a href="pngs/tk.png"> 🖼️ PNG</a></td><td><a href="svgs/tk.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:New_Zealand_on_the_globe_(Tokelau_special)_(small_islands_magnified)_(Polynesia_centered).svg">Wikipedia Source: CC BY-SA 3.0</a></td></tr>
-
     <tr><td>TL</td><td>Timor-Leste</td><td><a href="pngs/tl.png"> 🖼️ PNG</a></td><td><a href="svgs/tl.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>TM</td><td>Turkmenistan</td><td><a href="pngs/tm.png"> 🖼️ PNG</a></td><td><a href="svgs/tm.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>TN</td><td>Tunisia</td><td><a href="pngs/tn.png"> 🖼️ PNG</a></td><td><a href="svgs/tn.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
