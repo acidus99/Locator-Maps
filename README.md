@@ -103,7 +103,7 @@ The following table contains the Country & Territory Maps in this repo, includin
     <tr><td>GB</td><td>United Kingdom</td><td><a href="pngs/gb.png"> 🖼️ PNG</a></td><td><a href="svgs/gb.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GD</td><td>Grenada</td><td><a href="pngs/gd.png"> 🖼️ PNG</a></td><td><a href="svgs/gd.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GE</td><td>Georgia</td><td><a href="pngs/ge.png"> 🖼️ PNG</a></td><td><a href="svgs/ge.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
-    <tr><td>GF</td><td>French Guiana</td><td><a href="pngs/gf.png"> 🖼️ PNG</a></td><td><a href="svgs/gf.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
+    <tr><td>GF</td><td>French Guiana</td><td><a href="pngs/gf.png"> 🖼️ PNG</a></td><td><a href="svgs/gf.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:French_Guiana_in_France_2016.svg"> Wikipedia Source: CC BY-SA 3.0 DE</a></td></tr>
     <tr><td>GG</td><td>Guernsey</td><td><a href="pngs/gg.png"> 🖼️ PNG</a></td><td><a href="svgs/gg.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GH</td><td>Ghana</td><td><a href="pngs/gh.png"> 🖼️ PNG</a></td><td><a href="svgs/gh.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GI</td><td>Gibraltar</td><td><a href="pngs/gi.png"> 🖼️ PNG</a></td><td><a href="svgs/gi.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
