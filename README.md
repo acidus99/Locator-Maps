@@ -4,7 +4,7 @@ This repository contains public‑domain locator maps for countries and territor
 
 for example, here is a locator map for [Bhutan](https://en.wikipedia.org/wiki/Bhutan):
 
-![](pngs/bt.png)
+<img src="pngs/bt.png" alt="Locator map of Bhutan" width="500" height="500">
 
 Each locator map is available in both **SVG** and **PNG** formats. Files are named using the lowercase ISO code:
 
