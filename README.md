@@ -15,7 +15,7 @@ Each locator map is available in both **SVG** and **PNG** formats. Files are nam
 
 The majority of these maps were created by me, using [pythonshp](https://github.com/sanjayrao77/pythonshp) and open-source geospatial data files. These are licensed in the **Public Domain**.
 
-For some countries and territories, I could not generate a locator map directly. For example, Svalbard Island (SJ) is owned by Norway, but [pythonshp] does not include a geographic target for just Svalbard and instead would produce a locator map of all of Norway's territories. Additionally, some territories with ISO codes, such as Christmas Island (CX), didn't have a geographic target at all in [pythonshp]. For these locations, I downloaded a locator map in SVG from Wikipedia. These come with various licenses  and carry **Creative Commons licenses** rather than being in the public domain. These are clearly separated and retain their original licensing notices.
+For some countries and territories, I could not generate a locator map directly. For example, Svalbard Island (SJ) is owned by Norway, but `pythonshp` does not include a geographic target for just Svalbard and instead would produce a locator map of all of Norway's territories. Additionally, some territories with ISO codes, such as Christmas Island (CX), didn't have a geographic target at all in `pythonshp`. For these locations, I downloaded a locator map in SVG from Wikipedia. These come with various licenses  and carry **Creative Commons licenses** rather than being in the public domain. These are clearly separated and retain their original licensing notices.
 
 ## Country & Territory Locator Maps
 
@@ -284,7 +284,7 @@ The politics of what is or is not a country, or who controls what territory is n
 
 ## Building your own maps
 
-The PNGs are created by converting the SVGs. The SVGs are generated from geospatial data using [pythonshd](https://github.com/sanjayrao77/pythonshp).
+The PNGs are created by converting the SVGs. The SVGs are generated from geospatial data using [pythonshp](https://github.com/sanjayrao77/pythonshp).
 
 There is a Makefile and a `build.sh` build script which automates all of this. It:
 
@@ -298,7 +298,7 @@ GNU parallel is used to run operations in parallel. I rran this on a Mac, and us
 brew install parallel inkscape pngquant oxipng
 ```
 
-Download and put `pythonshd` and all the geospatial data files it tells you to download in a `pythonshd/` directory.
+Download and put `pythonshp` and all the geospatial data files it tells you to download in a `pythonshp/` directory.
 
 Then run:
 
