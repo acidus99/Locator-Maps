@@ -13,9 +13,9 @@ Each locator map is available in both **SVG** and **PNG** formats. Files are nam
 
 ## Licenses
 
-The majority of these maps were created by me, using [pythonshd](https://github.com/sanjayrao77/pythonshd) and open-source geospatial data files. These are licensed in the **Public Domain**.
+The majority of these maps were created by me, using [pythonshp](https://github.com/sanjayrao77/pythonshp) and open-source geospatial data files. These are licensed in the **Public Domain**.
 
-For some countries and territories, I could not generate a locator map directly. For example, Svalbard Island (SJ) is owned by Norway, but [pythonshd] does not include a geographic target for just Svalbard and instead would produce a locator map of all of Norway's territories. Additionally, some territories with ISO codes, such as Christmas Island (CX), didn't have a geographic target at all in [pythonshd]. For these locations, I downloaded a locator map in SVG from Wikipedia. These come with various licenses  and carry **Creative Commons licenses** rather than being in the public domain. These are clearly separated and retain their original licensing notices.
+For some countries and territories, I could not generate a locator map directly. For example, Svalbard Island (SJ) is owned by Norway, but [pythonshp] does not include a geographic target for just Svalbard and instead would produce a locator map of all of Norway's territories. Additionally, some territories with ISO codes, such as Christmas Island (CX), didn't have a geographic target at all in [pythonshp]. For these locations, I downloaded a locator map in SVG from Wikipedia. These come with various licenses  and carry **Creative Commons licenses** rather than being in the public domain. These are clearly separated and retain their original licensing notices.
 
 ## Country & Territory Locator Maps
 
@@ -288,7 +288,7 @@ The PNGs are created by converting the SVGs. The SVGs are generated from geospat
 
 There is a Makefile and a `build.sh` build script which automates all of this. It:
 
-* Invokes [pythonshd](https://github.com/sanjayrao77/pythonshp) to generate SVG maps for the geographies it can.
+* Invokes [pythonshp](https://github.com/sanjayrao77/pythonshp) to generate SVG maps for the geographies it can.
 * Combines SVG images downloaded from Wikipedia (stored in `override-svgs/`) into a single final `svgs` folder.
 * Uses `inkscape`, `pngquant`, and `oxipng` to convert these SVGs into 1000px PNGs, optimized for size, and places them into the `pngs/` folder.
 
