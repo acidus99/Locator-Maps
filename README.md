@@ -62,7 +62,7 @@ The following table contains the Country & Territory Maps in this repo, includin
     <tr><td>BY</td><td>Belarus</td><td><a href="pngs/by.png"> 🖼️ PNG</a></td><td><a href="svgs/by.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>BZ</td><td>Belize</td><td><a href="pngs/bz.png"> 🖼️ PNG</a></td><td><a href="svgs/bz.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>CA</td><td>Canada</td><td><a href="pngs/ca.png"> 🖼️ PNG</a></td><td><a href="svgs/ca.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
-    <tr><td>CC</td><td>Cocos (Keeling) Islands</td><td><a href="pngs/cc.png"> 🖼️ PNG</a></td><td><a href="svgs/cc.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:Australia_on_the_globe_(Cocos_(Keeling)_Islands_special)_(Southeast_Asia_centered).svg">Wikipedia Source: CC BY-SA 3.0</a></td></tr>
+    <tr><td>CC</td><td>Cocos (Keeling) Islands</td><td><a href="pngs/cc.png"> 🖼️ PNG</a></td><td><a href="svgs/cc.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:Australia_on_the_globe_(Cocos_(Keeling)_Islands_special)_(Southeast_Asia_centered).svg">Wikimedia Commons Source: CC BY-SA 3.0 / GFDL</a></td></tr>
     <tr><td>CD</td><td>Democratic Republic of the Congo</td><td><a href="pngs/cd.png"> 🖼️ PNG</a></td><td><a href="svgs/cd.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>CF</td><td>Central African Republic</td><td><a href="pngs/cf.png"> 🖼️ PNG</a></td><td><a href="svgs/cf.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>CG</td><td>Congo</td><td><a href="pngs/cg.png"> 🖼️ PNG</a></td><td><a href="svgs/cg.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
@@ -173,6 +173,7 @@ The following table contains the Country & Territory Maps in this repo, includin
     <tr><td>MN</td><td>Mongolia</td><td><a href="pngs/mn.png"> 🖼️ PNG</a></td><td><a href="svgs/mn.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>MO</td><td>Macau</td><td><a href="pngs/mo.png"> 🖼️ PNG</a></td><td><a href="svgs/mo.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>MP</td><td>Northern Mariana Islands</td><td><a href="pngs/mp.png"> 🖼️ PNG</a></td><td><a href="svgs/mp.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
+    <tr><td>MQ</td><td>Martinique</td><td><a href="pngs/mq.png"> 🖼️ PNG</a></td><td><a href="svgs/mq.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:D%C3%A9partement_972_in_France_(zoom).svg">Wikimedia Commons Source: CC BY-SA 3.0 / GFDL</a></td></tr>
     <tr><td>MR</td><td>Mauritania</td><td><a href="pngs/mr.png"> 🖼️ PNG</a></td><td><a href="svgs/mr.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>MS</td><td>Montserrat</td><td><a href="pngs/ms.png"> 🖼️ PNG</a></td><td><a href="svgs/ms.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>MT</td><td>Malta</td><td><a href="pngs/mt.png"> 🖼️ PNG</a></td><td><a href="svgs/mt.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
@@ -267,6 +268,7 @@ The following table contains the Country & Territory Maps in this repo, includin
     <tr><td>WS</td><td>Samoa</td><td><a href="pngs/ws.png"> 🖼️ PNG</a></td><td><a href="svgs/ws.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>XK</td><td>Kosovo</td><td><a href="pngs/xk.png"> 🖼️ PNG</a></td><td><a href="svgs/xk.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>YE</td><td>Yemen</td><td><a href="pngs/ye.png"> 🖼️ PNG</a></td><td><a href="svgs/ye.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
+    <tr><td>YT</td><td>Mayotte</td><td><a href="pngs/yt.png"> 🖼️ PNG</a></td><td><a href="svgs/yt.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:D%C3%A9partement_976_in_France_(zoom).svg">Wikimedia Commons Source: CC BY-SA 3.0 / GFDL</a></td></tr>
     <tr><td>ZA</td><td>South Africa</td><td><a href="pngs/za.png"> 🖼️ PNG</a></td><td><a href="svgs/za.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>ZM</td><td>Zambia</td><td><a href="pngs/zm.png"> 🖼️ PNG</a></td><td><a href="svgs/zm.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>ZW</td><td>Zimbabwe</td><td><a href="pngs/zw.png"> 🖼️ PNG</a></td><td><a href="svgs/zw.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
