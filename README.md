@@ -110,7 +110,7 @@ The following table contains the Country & Territory Maps in this repo, includin
     <tr><td>GL</td><td>Greenland</td><td><a href="pngs/gl.png"> 🖼️ PNG</a></td><td><a href="svgs/gl.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GM</td><td>Gambia</td><td><a href="pngs/gm.png"> 🖼️ PNG</a></td><td><a href="svgs/gm.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GN</td><td>Guinea</td><td><a href="pngs/gn.png"> 🖼️ PNG</a></td><td><a href="svgs/gn.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
-    <tr><td>GP</td><td>Guadeloupe</td><td><a href="pngs/gp.png"> 🖼️ PNG</a></td><td><a href="svgs/gp.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
+    <tr><td>GP</td><td>Guadeloupe</td><td><a href="pngs/gp.png"> 🖼️ PNG</a></td><td><a href="svgs/gp.svg"> 🎨 SVG</a></td><td><a href="https://commons.wikimedia.org/wiki/File:D%C3%A9partement_971_in_France_(zoom).svg">Wikimedia Commons Source: CC BY-SA 3.0 / GFDL</a></td></tr>
     <tr><td>GQ</td><td>Equatorial Guinea</td><td><a href="pngs/gq.png"> 🖼️ PNG</a></td><td><a href="svgs/gq.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GR</td><td>Greece</td><td><a href="pngs/gr.png"> 🖼️ PNG</a></td><td><a href="svgs/gr.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
     <tr><td>GS</td><td>South Georgia and the South Sandwich Islands</td><td><a href="pngs/gs.png"> 🖼️ PNG</a></td><td><a href="svgs/gs.svg"> 🎨 SVG</a></td><td>Public Domain</td></tr>
